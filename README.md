@@ -12,18 +12,13 @@
 <img src="https://github.com/get-icon/geticon/blob/master/logos/go.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/kotlin.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/lua.svg" width="50px" height="50px">
-<img src="https://github.com/get-icon/geticon/blob/master/logos/php.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/assembly.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/r.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/perl.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/objective-c.svg" width="50px" height="50px">
-<img src="https://github.com/get-icon/geticon/blob/master/logos/rust.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/scala.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/julia.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/lua.svg" width="50px" height="50px">
-<img src="https://github.com/get-icon/geticon/blob/master/logos/haskell.svg" width="50px" height="50px">
-<img src="https://github.com/get-icon/geticon/blob/master/logos/mysql.svg" width="50px" height="50px">
-<img src="https://github.com/get-icon/geticon/blob/master/logos/postgresql.svg" width="50px" height="50px">
 
 ## About
 Algo is a repository that contains all the algorithms in one place and is open to all PEC students for contribution. The repository contains algorithms that are important for cracking coding tests during placement drives and also for competitive programming.
