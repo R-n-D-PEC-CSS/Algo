@@ -35,19 +35,6 @@ Algo is a repository that contains all the algorithms in one place and is open t
 
 Make sure your code works before submitting it.
 
-## Contributors:
-### The Wonderful People Who Contributed Here
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Nibhrit-Garg"><img src="https://avatars.githubusercontent.com/u/56041803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nibhrit-Garg</b></sub></a><br /><a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Tests">⚠️</a> <a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Code">💻</a></td>
-  </tr>
-</table>
-
-
 
 <h2 align="center" id="Howtogetstarted?"> ⭐ How to get started?</h2>
 
@@ -60,7 +47,6 @@ You can refer to the following articles on the basics of Git and Github and also
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-<i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
 
 <h2 align="center" id="Stepstofollow"> ⭐ Steps to follow :scroll:</h2>
 
@@ -206,6 +192,19 @@ $ git push -u origin Folder_Name
 
 Then, go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
+
+
+## Contributors:
+### The Wonderful People Who Contributed Here
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Nibhrit-Garg"><img src="https://avatars.githubusercontent.com/u/56041803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nibhrit-Garg</b></sub></a><br /><a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Tests">⚠️</a> <a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Code">💻</a></td>
+  </tr>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
