@@ -33,12 +33,16 @@ Algo is a repository that contains all the algorithms in one place and is open t
 
 Make sure your code works before submitting it.
 
-## Contributors
+<i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
+
+## Contributors:
+### Credit goes to these wonderfull people: ✨
+
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/D-Ajay-Kumar/Algo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=D-Ajay-Kumar/Algo"/>
+   <a href="https://github.com/D-Ajay-Kumar/Algo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=D-Ajay-Kumar/Algo" />
 </a>
 		</td>
 	</tr>
