@@ -52,15 +52,6 @@ Make sure your code works before submitting it.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-<table>
-	<tr>
-		<td>
-   <a href="https://github.com/D-Ajay-Kumar/Algo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=D-Ajay-Kumar/Algo" />
-</a>
-		</td>
-	</tr>
-</table>
 
 
 
