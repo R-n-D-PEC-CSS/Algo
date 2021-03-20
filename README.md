@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/D-Ajay-Kumar/Algo/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/D-Ajay-Kumar/Algo?style=for-the-badge" /></a> <a href="https://github.com/D-Ajay-Kumar/Algo/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/D-Ajay-Kumar/Algo?style=for-the-badge" /></a> <a href="https://github.com/D-Ajay-Kumar/Algo/blob/master/README.md#contributors-" target="_blank"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/D-Ajay-Kumar/Algo?style=for-the-badge" /></a>
 
-## Tech Stack
+## ⭐ Tech Stack
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="50px" height="50px">
 </a><a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="50px" height="50px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c-plusplus.svg" alt="C++" width="50px" height="50px"></a>
@@ -22,10 +22,16 @@
 <img src="https://github.com/get-icon/geticon/blob/master/logos/julia.svg" width="50px" height="50px">
 <img src="https://github.com/get-icon/geticon/blob/master/logos/lua.svg" width="50px" height="50px">
 
-## About
+## ⭐ About
 Algo is a repository that contains all the algorithms in one place and is open to all PEC students for contribution. The repository contains algorithms that are important for cracking coding tests during placement drives and also for competitive programming.
 
-## Contributing Guidelines
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+
+## ⭐ Contributing Guidelines
 - Plagiarism is strictly not allowed. Any work that is found to be suspicious of plagiarized work will not be merged.
 - Issues will be assigned to those who create them unless the author wants someone else to take it. You just have to comment on the issue, asking to be assigned, and it will be done if found fit.
 - You cannot work on any issue that is not assigned to you.
@@ -36,7 +42,7 @@ Algo is a repository that contains all the algorithms in one place and is open t
 Make sure your code works before submitting it.
 
 
-<h2 align="center" id="Howtogetstarted?"> ⭐ How to get started?</h2>
+<h2 id="Howtogetstarted?"> ⭐ How to get started?</h2>
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com) <br>
 You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
@@ -48,7 +54,7 @@ You can refer to the following articles on the basics of Git and Github and also
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 
-<h2 align="center" id="Stepstofollow"> ⭐ Steps to follow :scroll:</h2>
+<h2 id="Stepstofollow"> ⭐ Steps to follow :scroll:</h2>
 
 <br>
 
@@ -196,6 +202,15 @@ Then add a title and description to your pull request that explains your preciou
 
 ## Contributors:
 ### The Wonderful People Who Contributed Here
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/D-Ajay-Kumar/Algo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=D-Ajay-Kumar/Algo" />
+</a>
+		</td>
+	</tr>
+</table>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
