@@ -44,7 +44,7 @@ Make sure your code works before submitting it.
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Nibhrit-Garg"><img src="https://avatars.githubusercontent.com/u/56041803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nibhrit-Garg</b></sub></a><br /><a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/Nibhrit-Garg"><img src="https://avatars.githubusercontent.com/u/56041803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nibhrit-Garg</b></sub></a><br /><a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Tests">⚠️</a> <a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Code">💻</a></td>
   </tr>
 </table>
 
