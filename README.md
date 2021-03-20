@@ -1,4 +1,7 @@
 # Algo
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Tech Stack
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="50px" height="50px">
@@ -36,6 +39,19 @@ Make sure your code works before submitting it.
 ## Contributors:
 ### The Wonderful People Who Contributed Here
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Nibhrit-Garg"><img src="https://avatars.githubusercontent.com/u/56041803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nibhrit-Garg</b></sub></a><br /><a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Tests">⚠️</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <table>
 	<tr>
 		<td>
