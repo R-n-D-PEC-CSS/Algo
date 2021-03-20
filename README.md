@@ -33,10 +33,8 @@ Algo is a repository that contains all the algorithms in one place and is open t
 
 Make sure your code works before submitting it.
 
-<i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
-
 ## Contributors:
-### Credit goes to these wonderfull people: ✨
+### The Wonderful People Who Contributed Here
 
 <table>
 	<tr>
