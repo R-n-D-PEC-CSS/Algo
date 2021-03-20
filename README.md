@@ -1,7 +1,6 @@
 # Algo
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/D-Ajay-Kumar/Algo/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/D-Ajay-Kumar/Algo?style=for-the-badge" /></a> <a href="https://github.com/D-Ajay-Kumar/Algo/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/D-Ajay-Kumar/Algo?style=for-the-badge" /></a> <a href="https://github.com/D-Ajay-Kumar/Algo/blob/master/README.md#contributors-" target="_blank"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/D-Ajay-Kumar/Algo?style=for-the-badge" /></a>
 
 ## Tech Stack
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="50px" height="50px">
