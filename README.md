@@ -47,6 +47,166 @@ Make sure your code works before submitting it.
   </tr>
 </table>
 
+
+
+<h2 align="center" id="Howtogetstarted?"> ⭐ How to get started?</h2>
+
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com) <br>
+You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
+
+- [Watch this video to get started, if you have no clue about open source](https://youtu.be/SL5KKdmvJ1U)
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+
+<i><p align="center"><a href="#content">⬆️ BACK TO CONTENT</a></p></i><br>
+
+<h2 align="center" id="Stepstofollow"> ⭐ Steps to follow :scroll:</h2>
+
+<br>
+
+### 0️⃣ Code of conduct
+
+Please read our [Code of conduct](./CODE_OF_CONDUCT.md) which stipulates explicitly that everyone must be gracious, respectful, and professional. This also documents our conflict resolution policy.
+
+### 1️⃣ Fork it :fork_and_knife:
+
+You can get your own fork/copy of [Algo](https://github.com/D-Ajay-Kumar/Algo) by using the <kbd><b>Fork</b></kbd> button.
+
+<br>
+
+
+### 2️⃣ Clone it :busts_in_silhouette:
+
+You need to clone (download) it to local machine using
+
+```sh
+$ git clone https://github.com/Your_Username/Algo.git
+```
+
+> This makes a local copy of repository in your machine.
+
+Once you have cloned the `Algo` repository in Github, move to that folder first using change directory command on linux and Mac.
+
+```sh
+# This will change directory to a folder Algo
+$ cd Algo
+```
+
+Move to this folder for all other commands.
+
+<br>
+
+
+
+### 3️⃣ Set it up :arrow_up:
+
+Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in Github :octocat:
+
+```sh
+$ git remote -v
+origin  https://github.com/Your_Username/Algo.git (fetch)
+origin  https://github.com/Your_Username/Algo.git (push)
+```
+Now, lets add a reference to the original [Algo](https://github.com/D-Ajay-Kumar/Algo) repository using
+
+```sh
+$ git remote add upstream https://github.com/D-Ajay-Kumar/Algo.git
+```
+
+> This adds a new remote named ***upstream***.
+
+See the changes using
+
+```sh
+$ git remote -v
+origin    https://github.com/Your_Username/Algo.git (fetch)
+origin    https://github.com/Your_Username/Algo.git (push)
+upstream  https://github.com/D-Ajay-Kumar/Algo.git (fetch)
+upstream  https://github.com/D-Ajay-Kumar/Algo.git (push)
+```
+
+<br>
+
+
+
+### 4️⃣ Sync it :recycle:
+
+Always keep your local copy of repository updated with the original repository.
+Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
+
+```sh
+# Fetch all remote repositories and delete any deleted remote branches
+$ git fetch --all --prune
+
+# Switch to `master` branch
+$ git checkout master
+
+# Reset local `master` branch to match `upstream` repository's `master` branch
+$ git reset --hard upstream/master
+
+# Push changes to your forked `Algo` repo
+$ git push origin master
+```
+
+<br>
+
+
+
+### 5️⃣ Ready Steady Go... :turtle: :rabbit2:
+
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https:/D-Ajay-Kumar/Algo/github.com//pulls).
+
+<br>
+
+### 6️⃣ Create a new branch :bangbang:
+
+Whenever you are going to make contribution. Please create seperate branch using command and keep your `master` branch clean (i.e. synced with remote branch).
+
+```sh
+# It will create a new branch with name Branch_Name and switch to branch Folder_Name
+$ git checkout -b Folder_Name
+```
+
+Create a seperate branch for contibution and try to use same name of branch as of folder.
+
+To switch to desired branch
+
+```sh
+# To switch from one folder to other
+$ git checkout Folder_Name
+```
+
+To add the changes to the branch. Use
+
+```sh
+# To add all files to branch Folder_Name
+$ git add .
+```
+
+Type in a message relevant for the code reveiwer using
+
+```sh
+# This message get associated with all files you have changed
+$ git commit -m 'relevant message'
+```
+
+<br>
+
+
+### 8️⃣ Share your work :star_struck:
+
+Now, Push your awesome work to your remote repository using
+
+```sh
+# To push your work to your remote repository
+$ git push -u origin Folder_Name
+```
+
+Then, go to your repository in browser and click on `compare and pull requests`.
+Then add a title and description to your pull request that explains your precious effort.
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
