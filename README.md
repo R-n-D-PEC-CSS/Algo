@@ -47,7 +47,7 @@ Make sure your code works before submitting it.
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com) <br>
 You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
 
-- [Watch this video to get started, if you have no clue about open source](https://www.youtube.com/watch?v=d__-ZLttvEo)
+- [Watch this video to get started with Git and GitHub](https://www.youtube.com/watch?v=d__-ZLttvEo)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
