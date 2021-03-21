@@ -58,9 +58,9 @@ You can refer to the following articles on the basics of Git and Github and also
 
 <br>
 
-### 0️⃣ Code of conduct
+### 0️⃣ Code of conduct and Code Style
 
-Please read our [Code of conduct](./CODE_OF_CONDUCT.md) which stipulates explicitly that everyone must be gracious, respectful, and professional. This also documents our conflict resolution policy.
+Please read our [Code of conduct](https://github.com/R-n-D-PEC-CSS/Algo/blob/main/CODE_OF_CONDUCT.md) and [Code Style](https://github.com/R-n-D-PEC-CSS/Algo/blob/main/CODE_STYLE.md) which stipulate explicitly that everyone must be gracious, respectful and professional and must submit the code in a predefined format. This also documents our conflict resolution policy.
 
 ### 1️⃣ Fork it :fork_and_knife:
 
@@ -211,20 +211,6 @@ Then add a title and description to your pull request that explains your preciou
 		</td>
 	</tr>
 </table>
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Nibhrit-Garg"><img src="https://avatars.githubusercontent.com/u/56041803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nibhrit-Garg</b></sub></a><br /><a href="https://github.com/R-n-D-PEC-CSS/Algo/commits?author=Nibhrit-Garg" title="Tests">⚠️</a> <a href="https://github.com/R-n-D-PEC-CSS/Algo/commits?author=Nibhrit-Garg" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 
