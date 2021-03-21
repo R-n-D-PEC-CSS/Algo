@@ -1,6 +1,6 @@
 # Algo
 
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/D-Ajay-Kumar/Algo/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/D-Ajay-Kumar/Algo?style=for-the-badge" /></a> <a href="https://github.com/D-Ajay-Kumar/Algo/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/D-Ajay-Kumar/Algo?style=for-the-badge" /></a> <a href="https://github.com/D-Ajay-Kumar/Algo/blob/master/README.md#contributors-" target="_blank"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/D-Ajay-Kumar/Algo?style=for-the-badge" /></a>
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/R-n-D-PEC-CSS/Algo/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/R-n-D-PEC-CSS/Algo?style=for-the-badge" /></a> <a href="https://github.com/R-n-D-PEC-CSS/Algo/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/R-n-D-PEC-CSS/Algo?style=for-the-badge" /></a> <a href="https://github.com/R-n-D-PEC-CSS/Algo/blob/master/README.md#contributors-" target="_blank"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/R-n-D-PEC-CSS/Algo?style=for-the-badge" /></a>
 
 ## ⭐ Tech Stack
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="50px" height="50px">
@@ -64,7 +64,7 @@ Please read our [Code of conduct](./CODE_OF_CONDUCT.md) which stipulates explici
 
 ### 1️⃣ Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Algo](https://github.com/D-Ajay-Kumar/Algo) by using the <kbd><b>Fork</b></kbd> button.
+You can get your own fork/copy of [Algo](https://github.com/R-n-D-PEC-CSS/Algo) by using the <kbd><b>Fork</b></kbd> button.
 
 <br>
 
@@ -101,10 +101,10 @@ $ git remote -v
 origin  https://github.com/Your_Username/Algo.git (fetch)
 origin  https://github.com/Your_Username/Algo.git (push)
 ```
-Now, lets add a reference to the original [Algo](https://github.com/D-Ajay-Kumar/Algo) repository using
+Now, lets add a reference to the original [Algo](https://github.com/R-n-D-PEC-CSS/Algo) repository using
 
 ```sh
-$ git remote add upstream https://github.com/D-Ajay-Kumar/Algo.git
+$ git remote add upstream https://github.com/R-n-D-PEC-CSS/Algo.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -115,8 +115,8 @@ See the changes using
 $ git remote -v
 origin    https://github.com/Your_Username/Algo.git (fetch)
 origin    https://github.com/Your_Username/Algo.git (push)
-upstream  https://github.com/D-Ajay-Kumar/Algo.git (fetch)
-upstream  https://github.com/D-Ajay-Kumar/Algo.git (push)
+upstream  https://github.com/R-n-D-PEC-CSS/Algo.git (fetch)
+upstream  https://github.com/R-n-D-PEC-CSS/Algo.git (push)
 ```
 
 <br>
@@ -148,7 +148,7 @@ $ git push origin master
 
 ### 5️⃣ Ready Steady Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https:/D-Ajay-Kumar/Algo/github.com//pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https:/R-n-D-PEC-CSS/Algo/github.com//pulls).
 
 <br>
 
@@ -205,9 +205,9 @@ Then add a title and description to your pull request that explains your preciou
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/D-Ajay-Kumar/Algo/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=D-Ajay-Kumar/Algo" />
-</a>
+			<a href="https://github.com/R-n-D-PEC-CSS/Algo/graphs/contributors">
+  				<img src="https://contrib.rocks/image?repo=R-n-D-PEC-CSS/Algo" />
+			</a>
 		</td>
 	</tr>
 </table>
@@ -217,7 +217,7 @@ Then add a title and description to your pull request that explains your preciou
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Nibhrit-Garg"><img src="https://avatars.githubusercontent.com/u/56041803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nibhrit-Garg</b></sub></a><br /><a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Tests">⚠️</a> <a href="https://github.com/D-Ajay-Kumar/Algo/commits?author=Nibhrit-Garg" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Nibhrit-Garg"><img src="https://avatars.githubusercontent.com/u/56041803?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nibhrit-Garg</b></sub></a><br /><a href="https://github.com/R-n-D-PEC-CSS/Algo/commits?author=Nibhrit-Garg" title="Tests">⚠️</a> <a href="https://github.com/R-n-D-PEC-CSS/Algo/commits?author=Nibhrit-Garg" title="Code">💻</a></td>
   </tr>
 </table>
 
