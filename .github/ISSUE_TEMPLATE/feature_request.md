@@ -1,3 +1,12 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Please read the following document before beginning coding
 [Coding Style](https://github.com/avinashkranjan/Friday/blob/master/CONTRIBUTING.md)
 
