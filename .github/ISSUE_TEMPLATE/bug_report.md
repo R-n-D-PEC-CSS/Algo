@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Please read the following document before beginning coding
 [Coding Style](https://github.com/avinashkranjan/Friday/blob/master/CONTRIBUTING.md)
 
